@@ -1,0 +1,16 @@
+# Virtual Environment
+dubai_env/
+*.pyc
+__pycache__/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Config Files
+.env
+
+# Optionally, exclude all datasets just to be sure
+datasets/
+learning/
+models/
+outputs/
