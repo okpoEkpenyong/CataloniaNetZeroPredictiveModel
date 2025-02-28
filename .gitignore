@@ -1,5 +1,5 @@
 # Virtual Environment
-dubai_env/
+net_zero_env/
 *.pyc
 __pycache__/
 
@@ -12,5 +12,4 @@ __pycache__/
 # Optionally, exclude all datasets just to be sure
 datasets/
 learning/
-models/
 outputs/
